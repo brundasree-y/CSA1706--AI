@@ -1,0 +1,9 @@
+Pseudocode
+Start.
+Initialize jugs as (0, 0, 8).
+Set capacities to 3L, 5L, and 8L.
+Pour water between the jugs.
+Store each new state.
+Repeat until the state becomes (0, 4, 4).
+Display the solution.
+Stop.
