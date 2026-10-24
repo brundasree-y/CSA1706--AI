@@ -1,0 +1,9 @@
+Pseudocode
+Start.
+Initialize the start node S.
+Calculate .
+Select the node with the lowest .
+Expand its neighboring nodes and update their costs.
+Repeat until the goal node G is reached.
+Display the shortest path and total cost.
+Stop.
