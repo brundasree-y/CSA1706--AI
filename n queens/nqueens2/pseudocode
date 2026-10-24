@@ -1,0 +1,10 @@
+Pseudocode
+Start.
+Create a 4×4 grid.
+Select a cell and assign a color.
+Check its top, bottom, left, and right neighbors.
+If a neighbor has the same color, try another color.
+If no color works, backtrack.
+Repeat until all cells are colored.
+Display the grid.
+Stop.
