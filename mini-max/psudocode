@@ -1,0 +1,8 @@
+Pseudocode
+Start.
+Enter the leaf node values.
+If the node is a leaf, return its value.
+At MAX nodes, select the maximum value.
+At MIN nodes, select the minimum value.
+Continue until the root node is evaluated.
+Display the best value.
