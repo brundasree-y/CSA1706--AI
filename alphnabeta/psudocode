@@ -1,0 +1,10 @@
+Pseudocode
+Start.
+Initialize alpha = −∞ and beta = +∞.
+If the node is a leaf, return its value.
+At a MAX node, select the maximum value and update alpha.
+At a MIN node, select the minimum value and update beta.
+If alpha ≥ beta, prune the remaining branches.
+Continue until the root node is evaluated.
+Display the best value.
+Stop.
