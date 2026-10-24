@@ -1,0 +1,9 @@
+Pseudocode
+Start.
+Define the regions and their adjacent regions.
+Select a region.
+Assign a color that differs from its neighbors.
+If no color is possible, backtrack.
+Repeat until all regions are colored.
+Display the colors.
+Stop.
