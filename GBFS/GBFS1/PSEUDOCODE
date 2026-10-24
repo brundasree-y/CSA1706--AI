@@ -1,0 +1,9 @@
+Pseudocode
+Start.
+Initialize the start node A.
+Insert A into the priority queue using its heuristic value.
+Select the node with the lowest heuristic value.
+If the node is G, display the path and stop.
+Otherwise, add its unvisited neighbors to the queue.
+Repeat until the goal is reached.
+Stop.
